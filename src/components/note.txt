@@ -1,0 +1,16 @@
+App
+    Header 1
+    Products 2
+        Products 3
+        Products
+        Products
+    Message 4
+    Cart 5
+        CartItem 6
+        CartItem
+        CartItem
+ 
+        CartResult 7 
+    Footer 8
+
+    8 component
